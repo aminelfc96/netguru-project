@@ -1,1 +1,1 @@
-web: gunicorn netguru_api_cars.wsgi
+web: gunicorn main_api.wsgi
