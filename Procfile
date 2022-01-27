@@ -1,1 +1,1 @@
-web: gunicorn main_api.wsgi
+web: gunicorn main_project.wsgi --log-file - --log-level debug
