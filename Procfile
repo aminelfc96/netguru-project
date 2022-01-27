@@ -1,0 +1,1 @@
+web: gunicorn netguru_api_cars.wsgi
