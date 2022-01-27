@@ -1,3 +1,5 @@
+Build and Test Platform: Windows 10
+
 The netguru project for recruitment
 
 A REST API App Using django and djangorestframework (DRF).
